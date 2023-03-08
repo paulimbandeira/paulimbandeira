@@ -1,6 +1,6 @@
 ### Oi, sou o Paulo Bandeira 👋
 
-
+  -  👨🏻‍💻 - Sou apaixonado por tecnologia.
 
 
 
