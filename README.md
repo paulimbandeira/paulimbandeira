@@ -8,7 +8,7 @@
   -  Curso Windows Server 2012 - MCSA
   -  Curso de Python 
   -  Curso de Power BI
-  -  [Linkdin](https://www.linkedin.com/in/paulo-roberto-ribeiro-bandeira-a55500243/)
+  -  [Linkedin](https://www.linkedin.com/in/paulo-roberto-ribeiro-bandeira-a55500243/)
 
 
 <div style="display: inline">
