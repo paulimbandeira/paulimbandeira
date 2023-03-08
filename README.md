@@ -7,14 +7,20 @@
   -  Pós-Graduado em 
 
 
-            <i class="devicon-python-plain"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
           
 
-            <i class="devicon-linkedin-plain colored"></i>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
           
 <!--
 
-            <i class="devicon-pycharm-plain"></i>
+            
           
 **paulimbandeira/paulimbandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
