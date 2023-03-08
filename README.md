@@ -1,11 +1,21 @@
 ### Oi, sou o Paulo Bandeira 👋
 
   -  👨🏻‍💻 - Sou apaixonado por tecnologia.
+  -  Tenho um pouco de conhecimento em Python, Power BI.
+  -  Atualmente trabalho como Analista de Suporte Computacional (Computer Support Analyst)
+  -  Graduado em Redes de Computadores.
+  -  Pós-Graduado em 
 
 
+            <i class="devicon-python-plain"></i>
+          
 
-
+            <i class="devicon-linkedin-plain colored"></i>
+          
 <!--
+
+            <i class="devicon-pycharm-plain"></i>
+          
 **paulimbandeira/paulimbandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
