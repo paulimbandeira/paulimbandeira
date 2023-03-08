@@ -16,7 +16,8 @@
    <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />            
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </div>
-          
+          ![image](https://user-images.githubusercontent.com/118223817/223824984-1c7e5b38-ac0a-4647-90da-25719b9aba57.png)
+
 <!--
 
             
