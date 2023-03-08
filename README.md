@@ -11,17 +11,15 @@
   -  [Linkdin](https://www.linkedin.com/in/paulo-roberto-ribeiro-bandeira-a55500243/)
 
 
-
+<div style="display: inline">
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
    
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
                 
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
           
-
-
 ![image](https://user-images.githubusercontent.com/118223817/223817321-08fe6387-f7a5-4652-bc92-dbabb39ba0b9.png)
-
+</div>
           
 <!--
 
