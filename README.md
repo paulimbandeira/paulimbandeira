@@ -5,6 +5,9 @@
   -  Atualmente trabalho como Analista de Suporte Computacional (Computer Support Analyst)
   -  Graduado em Redes de Computadores.
   -  Pós-Graduado em Desenvolvimento de aplicações mobile
+  -  Curso Windows Server 2012 - MCSA
+  -  Curso de Python 
+  -  Curso de Power BI
 
 
           
