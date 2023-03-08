@@ -9,8 +9,8 @@
   -  Curso de Python 
   -  Curso de Power BI
 
-![image](https://user-images.githubusercontent.com/118223817/223799191-b80f082f-8162-441e-95e3-de3559511281.png)
-
+![image](https://user-images.githubusercontent.com/118223817/223797791-1cb42990-d3bc-4c70-9199-d269058f37f5.png)
+![image](https://user-images.githubusercontent.com/118223817/223816298-42b299e1-3843-406f-866f-e03df1209887.png)
 
           
 <!--
